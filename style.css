@@ -1,5 +1,4 @@
-/* Remove margens da página */
-/* ====== ESTILO DO FUNDO ====== */
+
 body {
     margin: 0;
     padding: 0;
@@ -9,7 +8,7 @@ body {
     color: white;
 }
 
-/* ====== TÍTULO ====== */
+
 header {
     text-align: center;
     padding: 20px;
@@ -75,7 +74,7 @@ body {
     max-width: 260px;
 }
 
-/* TEXTO */
+
 .subtitulo {
     text-align: center;
     color: white;
@@ -84,7 +83,7 @@ body {
     margin: 0 auto 30px auto;
 }
 
-/* RODAPÉ */
+
 .rodape {
     margin-top: 40px;
     padding: 30px;
@@ -111,7 +110,6 @@ body {
     width: 30px;
 }
 
-/* GALERIA */
 .galeria {
     text-align: center;
     margin-top: 40px;
@@ -138,3 +136,4 @@ body {
     margin-top: 10px;
     opacity: 0.85;
 }
+
