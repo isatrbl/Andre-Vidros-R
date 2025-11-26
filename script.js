@@ -20,17 +20,18 @@ function mostrarImagem() {
     }, 300);
 }
 
-// avançar
+
 function proximo() {
     index = (index + 1) % imagens.length;
     mostrarImagem();
 }
 
-// clique avança
+
 img.addEventListener("click", proximo);
 
 // autoplay
 setInterval(proximo, intervalo);
 
-// primeira imagem
+
 mostrarImagem();
+
