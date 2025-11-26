@@ -39,12 +39,11 @@ html, body {
     font-family: Arial, sans-serif;
 }
 
-/* Fundo em degradê suave */
 body {
     background: linear-gradient(180deg, #2c64b7, #74a9ff);
 }
 
-/* TOPO / HEADER */
+
 .top-bar {
     width: 100%;
     background: #003366;
@@ -136,4 +135,5 @@ body {
     margin-top: 10px;
     opacity: 0.85;
 }
+
 
